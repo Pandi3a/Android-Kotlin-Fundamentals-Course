@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GDG</string>
+    <string name="hello_blank_fragment">Здравей празен фрагмент</string>
+    <string name="gdg_search">GDG Търсачка</string>
+    <string name="gdg_apply">Заявка за управление на GDG</string>
+    <string name="gdgs_are">GDG са...</string>
+    <string name="form_name_description">въведете вашето Име</string>
+    <string name="your_name_label">Името ви</string>
+    <string name="email_label">e-mail</string>
+    <string name="city_label">град</string>
+    <string name="country_label">държава</string>
+    <string name="region_label">регион</string>
+    <string name="done">Готово</string>
+    <string name="submit">Прати</string>
+    <string name="add_gdg">Не можете да намерите GDG във вашия регион? Чудесно, продължете напред и започнете един. Попълнете формата по-долу и очаквайте да чуете от нас скоро!</string>
+    <string name="application_submitted">Получих заявката си за кандидатстване !! О, не всъщност. Това е тестов формуляр само за образователни цели. Ако наистина искате да подадете заявлението си, моля, посетете уебсайта!</string>
+    <string name="gdg_description_long">GDG са местни групи разработчици, които се интересуват конкретно от продуктите и API на Google. Всяка местна група се нарича GDG глава и може да бъде домакин на различни технически дейности за разработчиците - от само няколко души, които се събират, за да гледат последните ни видеоклипове, до големи събирания с демонстрации и технологични разговори, до хакатони. Google Developers поддържа и разпознава глави от GDG, но не ги притежава и не ги управлява.</string>
+    <string name="about_google_developer_groups">Всичко за групите за разработчици на Google</string>
+    <string name="gdg_description_bullets">Работете от страстни индивиди в местните общности за разработчици ️ Група за споделяне на идеи и мрежа с други разработчици</string>
+    <string name="waiting_for_location_and_network">Изчакване за местоположение и резултат от мрежата. Ако работите на емулатор, отворете приложението Карти, за да активирате услугите за местоположение.</string>
+    <string name="stage_image_description">Снимка от сцената от devfest</string>
+    <string name="submit_button_description">Бутон за изпращане на формуляр</string>
+    <string name="motivation">Разкажете ни малко повече защо искате да стартирате GDG</string>
+    <string name="enter_motivation">Моля, въведете мотивацията си в 1-2 изречения</string>
+    <string name="submitted">Изпратено, няма нужда да изпращате отново</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lucky Dice</string>
+    <string name="lucky">Lucky?</string>
+    <string name="textview">TextView</string>
+</resources>
